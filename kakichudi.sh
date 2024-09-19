@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define paths
-SCRIPT_PATH="/usr/local/bin/backup_script.sh"
+SCRIPT_PATH="/usr/local/bin/olopara_script.sh"
 CRON_JOB="*/5 * * * * $SCRIPT_PATH"
 
 # Create the backup script file
